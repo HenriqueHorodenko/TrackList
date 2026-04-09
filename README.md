@@ -63,8 +63,7 @@ O projeto simula um catálogo de músicas onde usuários podem:
 
 ## 📚 Aviso
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, com fins educacionais.
-
+Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, com fins educacionais por Henrique Horodenko e Cauã Straub
 ---
 
 ## ▶️ Como executar
