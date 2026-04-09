@@ -1,5 +1,5 @@
-// Cauã Santos Straub RA: 10734873
-// Henrique Horodenko Braga RA: 10734878
+// Cauã Santos Straub
+// Henrique Horodenko Braga
 
 import java.util.ArrayList;
 
