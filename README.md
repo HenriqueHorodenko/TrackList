@@ -65,8 +65,16 @@ O projeto simula um catálogo de músicas onde usuários podem:
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, com fins educacionais.
 
+---
+
 ## ▶️ Como executar
 
 ### 1. Compilar
 ```bash
 javac *.java
+```
+
+### 2. Executar
+```bash
+java Main
+```
